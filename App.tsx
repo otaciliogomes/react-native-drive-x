@@ -9,12 +9,16 @@
  */
 
 import React from 'react';
-import Login from './src/pages/Login';
+import Login from './src/pages/Login'
+import { Types } from './src/pages/Steps/types'
+import { Car } from './src/pages/Car'
+
+
 
 
 const App = () => {
   return (
-    <Login />
+    <Car />
   )
 }
 
