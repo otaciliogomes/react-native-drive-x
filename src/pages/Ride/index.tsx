@@ -6,7 +6,7 @@ import { PickerButton } from '../../shared/PickerButton';
 import { Input } from '../../shared/Input';
 import { Keyboard } from 'react-native';
 
-export const Car = () => {
+export const Ride = () => {
     const [visible, setVisible] = useState(true)
 
     useEffect(() => {

@@ -10,7 +10,7 @@
 
 import React from 'react';
 import Login from './src/pages/Login'
-import { Types } from './src/pages/Steps/types'
+import { Types } from './src/pages/Types'
 import { Car } from './src/pages/Car'
 
 
